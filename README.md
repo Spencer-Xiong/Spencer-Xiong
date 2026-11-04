@@ -16,7 +16,7 @@ This portfolio documents my technical labs, network designs, troubleshooting exp
 *Documentation of my hands-on coursework and technical projects.*
 
 ### Semester 1
-- *Projects coming soon.*
+- [Three-Floor Office Network Design](network-design-project.md)
 
 ### Semester 2
 - *Projects coming soon.*
