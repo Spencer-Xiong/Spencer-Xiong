@@ -12,6 +12,19 @@ This project involved designing a network infrastructure for a three-floor offic
 
 The objective was to develop a reliable, secure, and scalable network supporting multiple departments, servers, wireless access points, and shared resources.
 
+## 2. Architecture & Design
+
+The network was designed for a three-floor office building.
+
+### Network Layout
+- Floor 1: Main Distribution Frame (MDF)
+- Floor 2: Intermediate Distribution Frame (IDF)
+- Floor 3: Intermediate Distribution Frame (IDF)
+
+### Network Topology
+
+![Network Topology](network-topology.png)
+
 ## 3. Methodology & Execution
 
 ### Network Planning
