@@ -8,6 +8,7 @@ This portfolio documents my technical labs, network designs, troubleshooting exp
 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/spencer-xiong/)
 - **GitHub:** [My GitHub Profile](https://github.com/Spencer-Xiong)
+- **Notion Portfolio:** [My Porttfolio](https://spencer-xiong-cyber-portfolio.notion.site/Spencer-Xiong-Cybersecurity-Portfolio-414cb8ffacf880fbb876fd08ad704c1d?source=copy_link)
 
 ---
 
